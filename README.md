@@ -1,3 +1,8 @@
-### ALURA BOOKS PART I PROJETO 
+### ALURA BOOKS PART I PROJETO
+pagina digital de livros
 
-### OBS - Mesma coisa do que o II
+### TECNOLOGIAS ULTILIZADS 
+HTML e CSS
+
+## CREDITOS 
+alura plataforma cmsp
